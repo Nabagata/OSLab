@@ -6,7 +6,7 @@ int main()
 {
 	for(int i=0;i<3;i++)
 	{
-		printf("Hello Baccha\n");
+		printf("Hello\n");
 		fork();
 	}
 return 0;
