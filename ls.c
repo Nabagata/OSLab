@@ -23,8 +23,6 @@ void ls(char* path, int argc, char*argv[])
 
 void main(int argc, char **argv)
 {
-	char path[]="/home/cs16";
+	char path[]="/Coding/OS";
 	ls(path,argc,argv);
 }
-
-
